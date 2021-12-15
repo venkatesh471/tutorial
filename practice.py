@@ -4,3 +4,7 @@ def greet():
 
 def calling(number):
 	print("calling..{}".format(number))
+
+def square(num):
+	result = num**2 
+	return result
