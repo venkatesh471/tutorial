@@ -8,3 +8,7 @@ def calling(number):
 def square(num):
 	result = num**2 
 	return result
+
+def hello ():
+	print("HELLO!!")
+
